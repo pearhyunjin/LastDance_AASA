@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "F83F8K6223.com.LastDance",
+        "paths": [ "/artworkId/*" ]
+      },
+      {
+        "appID": "F83F8K6223.com.LastDance.Clip",
+        "paths": [ "/artworkId/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "F83F8K6223.com.LastDance.Clip"
+    ]
+  }
+}
