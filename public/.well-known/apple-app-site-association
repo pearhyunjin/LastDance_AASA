@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "F83F8K6223.com.LastDance",
-        "paths": [ "/artworkId/*", "/exhibitionId/*" ]
+        "paths": [ "/item/*", "/show/*" ]
       },
       {
         "appID": "F83F8K6223.com.LastDance.Clip",
-        "paths": [ "/artworkId/*", "/exhibitionId/*" ]
+        "paths": [ "/item/*", "/show/*" ]
       }
     ]
   },
